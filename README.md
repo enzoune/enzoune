@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Prazer! 👋 Me chamo Enzo, sou um desenvolvedor Back-end!</p>
+<p align="left">Prazer! 👋 Me chamo Enzo, sou um desenvolvedor Full-Stack!</p>
 
 ###
 
