@@ -134,10 +134,4 @@ Me chamo Enzo Hideaki Une, tenho 19 anos e sou um desenvolvedor em formação co
         height="200px"
         src="https://github-readme-streak-stats.herokuapp.com?user=enzoune&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D"
     />
-    &nbsp; &nbsp;
-    <img 
-        alt="Github Stats" 
-        height="200px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoune&theme=tokyonight&custom_title=Tecnologias&langs_count=10"
-    />
 </div>
