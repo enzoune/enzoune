@@ -91,8 +91,8 @@ Me chamo Enzo Hideaki Une, tenho 19 anos e sou um desenvolvedor em formação co
     />
     &nbsp; &nbsp; &nbsp;
     <img
-        alt="CSS"
-        title="CSS"
+        alt="Git"
+        title="Git"
         width="40px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
     />
