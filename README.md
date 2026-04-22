@@ -117,7 +117,7 @@ Me chamo Enzo Hideaki Une, tenho 19 anos e sou um desenvolvedor em formação co
         />
     </a>
     &nbsp;
-    <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvrbrQmHfQHscWHdsZtqXwpKGWfKXshJgTnlcmKHRvczcLZZcVGbKlBtPRbNpGKWMTfhKg">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contato.enzoune@gmail.com" target="_blank">
         <img 
             alt="Email de Contato" 
             title="Entre em contato"
